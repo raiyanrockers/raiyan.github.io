@@ -1,7 +1,7 @@
 {
-  "name": "academic-pages",
+  "name": "raiyan-portfolio",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Raiyan's personal website and Portfolio",
   "repository": {
     "type": "git",
     "url": "https://github.com/academicpages/academicpages.github.io"
