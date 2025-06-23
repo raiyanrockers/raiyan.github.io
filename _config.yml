@@ -15,7 +15,7 @@ name                     : &name "Raiyan"
 description              : &description "personal description"
 url                      : https://raiyan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "raiyanrockers/raiyan.github.io"
+repository               : "raiyan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,20 +23,20 @@ repository               : "raiyanrockers/raiyan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Raiyan"
   pronouns         : # example: "she/her"  
   bio              : "I am a dedicated GIS specialist with expertise in planning, spatial analysis, remote sensing, and AI-integrated geospatial modeling, proficient in GIS tools."
   location         : "Dhaka, Bangladesh"
-  employer         : "Red Brick University"
+  employer         : "Sreejon Consultant Limited"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "raiyanrockers@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5673-5968"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -46,21 +46,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "raiyanrockers"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
+  facebook         : "raiyanrockers"
+  linkedin         : "raiyan18"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
